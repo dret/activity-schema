@@ -1,6 +1,6 @@
 # Activity Streams - Base Schema
 
-This document presents a base set of Object types and Verbs for use with Activity Streams.
+This document presents a base set of Object types and Verbs for use with Activity Streams. It has been created for version 1.0 of the Activity Streams format. For schemas and other specifications regarding the more recent version 2.0 of Activity Streams, http://activitystrea.ms/ provides a convenient starting point.
 
 ##  Introduction
 <a name="introduction" />
