@@ -1,10 +1,10 @@
 # Activity Streams - Base Schema
 
-This document presents a base set of Object types and Verbs for use with Activity Streams.
+This document presents a base set of Object types and Verbs for use with Activity Streams 1.0.
 
 ##  Introduction
 <a name="introduction" />
-This document presents a base set of object types and verbs for use with Activity Streams.
+This document presents a base set of object types and verbs for use with Activity Streams 1.0.
 
 ### Notational Conventions
 <a name="conventions" />
