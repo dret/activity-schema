@@ -584,7 +584,7 @@
           <spanx style="verb">person</spanx> object)</c>
           
           <c><spanx style="verb">binary</spanx></c>
-          <c>Objects of this type are used to carry arbirary Base64-encoded
+          <c>Objects of this type are used to carry arbitrary Base64-encoded
           binary data within an Activity Stream object. It is primarily 
           intended to attach binary data to other types of objects through
           the use of the <spanx style="verb">attachments</spanx> property. 
