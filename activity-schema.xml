@@ -58,7 +58,7 @@
 
     <abstract>
       <t>This document presents a base set of Object types and Verbs for use
-      with Activity Streams.</t>
+      with Activity Streams 1.0.</t>
     </abstract>
 
     <note title="Requirements Language">
@@ -72,7 +72,7 @@
   <middle>
     <section title="Introduction">
       <t>This document presents a base set of object types and verbs for use
-      with Activity Streams.</t>   
+      with Activity Streams 1.0.</t>   
             
       <section title="Notational Conventions">
         <t>This specification allows the use of <xref target="RFC3987">IRIs</xref>. 
