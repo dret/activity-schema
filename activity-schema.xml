@@ -102,7 +102,7 @@
           <ttcol align="left">Description</ttcol>
       
           <c><spanx style="verb">accept</spanx></c>
-          <c>Indicates that that the actor has accepted the object. For 
+          <c>Indicates that the actor has accepted the object. For 
           instance, a person accepting an award, or accepting an assignment.</c>
           
           <c><spanx style="verb">access</spanx></c>
