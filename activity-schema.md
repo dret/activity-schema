@@ -22,7 +22,7 @@ This specification defines the following core verbs in addition to the default <
   <tr><th align="left" width="5%">Verb</th><th width="50%" align="left">Description</th><th align="left" nowrap="nowrap">Example</th></tr>
   <tr>
     <td align="center"><tt>accept</tt></td>
-    <td>Indicates that that the actor has accepted the object. For instance, a person accepting an award, or accepting an assignment.</td>
+    <td>Indicates that the actor has accepted the object. For instance, a person accepting an award, or accepting an assignment.</td>
     <td nowrap="nowrap">
       <pre>
   {
