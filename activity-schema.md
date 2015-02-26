@@ -1879,7 +1879,7 @@ All Activity Stream Objects inherit the same fundamental set of basic properties
   </tr>
   <tr>
     <td><tt>binary</tt></td>
-    <td>Objects of this type are used to carry arbirary Base64-encoded binary data within an Activity Stream object. It is primarily intended to attach binary data to other types of objects through the use of the <tt>attachments</tt> property. Objects of this type will contain the additional properties specified <a href='#binary'>here</a>.</td>
+    <td>Objects of this type are used to carry arbitrary Base64-encoded binary data within an Activity Stream object. It is primarily intended to attach binary data to other types of objects through the use of the <tt>attachments</tt> property. Objects of this type will contain the additional properties specified <a href='#binary'>here</a>.</td>
   </tr>
   <tr>
     <td><tt>bookmark</tt></td>
