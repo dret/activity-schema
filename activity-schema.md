@@ -2714,7 +2714,7 @@ Any object within an Activity Streams object can be extended with additional pro
 
 When utilizing such vocabularies, it is possible that conflicts in the naming of properties and format of expected values might arise. To mitigate the risk of such conflicts, the following guidelines SHOULD be followed:
 
-1. When selecting the <tt>objectType</tt> for an object, if there is a close equivalent <tt>objectType</tt> already defined by thisspecification, then that <tt>objectType</tt> SHOULD be used.
+1. When selecting the <tt>objectType</tt> for an object, if there is a close equivalent <tt>objectType</tt> already defined by this specification, then that <tt>objectType</tt> SHOULD be used.
 2. When properties specific to an external vocabulary are to be included within an object, those SHOULD be grouped together under a single namespace property whose name is uniquely reflective of the vocabulary.
 3. When including properties from the external vocabulary, avoid properties that are a close semantic match to existing properties defined by this or the core Activity Streams [activitystreams][activitystreams] specification.  For example, within the Schema.org vocabulary, the properties <tt>name</tt>, <tt>description</tt>, <tt>url</tt> and <tt>image</tt> are semantically equivalent to core Activity Streams object properties and therefore SHOULD NOT be used.
 4. Further, avoid utilizing properties from multiple external vocabularies that are similar or semantically equivalent to each other.
