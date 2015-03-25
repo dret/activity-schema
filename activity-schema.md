@@ -2159,9 +2159,9 @@ In addition to the core properties shared by all Activity Streams Objects, <tt>i
 <table border="1">
   <tr><th align="left">Property</th><th align="left">Value</th><th align="left">Description</th></tr>
   <tr>
-    <td><tt>types</tt><td>
+    <td><tt>types</tt></td>
     <td>Array</td> 
-    <td> An array of one or more absolute IRI's that describe the type of issue represented by the object. Note that the IRI's are intended for use as identifiers and MAY or MAY NOT be dereferenceable.</td>
+    <td>An array of one or more absolute IRIs that describe the type of issue represented by the object. Note that the IRI's are intended for use as identifiers and MAY or MAY NOT be dereferenceable.</td>
   </tr>
 </table>
 
